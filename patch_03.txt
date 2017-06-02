@@ -1,8 +1,7 @@
 diff --git a/lines_01.txt
 --- a/lines_01.txt
 +++ b/lines_01.txt
-@@ -2,2 +2,4 @@
+@@ -2,2 +4,3 @@
  line 10
-+line 10.5
 +line 10.5
  line 11
