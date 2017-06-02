@@ -3,8 +3,5 @@ comment comment
 --- a/lines_01.txt
 +++ b/lines_01.txt
 @@ -2 +2 @@ comment comment
- line  10
-+line 10.5
- line  11
- line  12
- line  13
++line  13.aaa
+ line  14
