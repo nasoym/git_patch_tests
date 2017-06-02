@@ -1,0 +1,6 @@
+diff --git a/lines_01.txt b/lines_01.txt
+index bab081f..94eeb08 100644
+--- a/lines_01.txt
++++ b/lines_01.txt
+@@ -10,0 +11 @@ line 10
++line 10.5
