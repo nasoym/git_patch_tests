@@ -1,3 +1,4 @@
-diff --git a/lines_01.txt
---- a/lines_01.txt
-+++ b/lines_01.txt
+diff --git a/lines_01.txt b/lines_02.txt
+similarity index 100%
+rename from lines_01.txt
+rename to lines_02.txt
