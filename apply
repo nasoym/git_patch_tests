@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
-git apply --ignore-whitespace patch_03.txt
+#git apply --ignore-whitespace patch_03.txt
+git apply --ignore-whitespace --recount --reject patch_03.txt
 # git apply --ignore-whitespace --check patch_03.txt
 
